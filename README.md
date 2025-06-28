@@ -1,7 +1,7 @@
 ## 🌟 Project Overview 🤖💖
 iEmoBot Spark is an open-source project for an AI voice emotional robot. With its innovative architecture integrating software and hardware, it redefines the human-computer interaction experience. Breaking free from the shackles of traditional AI voices that are cold, mechanical, and emotionless, iEmoBot Spark deeply integrates key technologies such as basic speech algorithms, speech recognition, speech synthesis, emotion recognition, and LLM (Large Language Model). This endows AI robots with delicate and rich emotional perception and expression capabilities, enabling AI to have "joy, anger, sorrow, and happiness". Whether it's a gentle and healing companion or a passionate interaction, iEmoBot Spark can create immersive emotional dialogue scenarios for users, making every human-computer interaction a touching emotional resonance 💖!
 
-## 🚀 Core Features Highlights
+## 🚀 Core Features
 ✅ **Integrated Software-Hardware Open Source**  
 The iEmoBot Spark robot consists of software, electronic hardware, and a casing, all of which are open source. Developers can freely modify it, from optimizing algorithms, customizing electronic hardware, to designing the appearance. Your creativity takes the lead, allowing you to easily create your exclusive AI voice emotional companion!
 
